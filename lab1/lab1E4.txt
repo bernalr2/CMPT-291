@@ -1,0 +1,15 @@
+Ryan Bernal
+
+4) Let ID = {1, 2, 3} and fName = {Jane, Don, Ted}
+
+a) Write the Cartesian product ID x fName
+ID x fName = {(1, Jane), (1, Don), (1, Ted), (2, Jane), (2, Don), (2, Ted), (3, Jane), (3, Don), (3, Tod)}
+
+b) Is your answer to the last part a relation from ID to fName?
+Yes, ID x fName is a relation from ID to fName. For each 2-tuple, the first element is from ID and the second element is from fName
+
+c) Write the relation from ID to fName that contains all tuples whose ID is 2 (and no other tuples)
+ID x fName (Only Tuples with ID: 2) = {(2, Jane), (2, Don), (2, Ted)}
+
+d) What is the cardinality of the relation you wrote for the previous part?
+|ID x fName| = 9, since |ID| = 3 and |fName| = 3. Multiplying the sets with Cartesian Product give 9.

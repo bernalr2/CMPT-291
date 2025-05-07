@@ -1,0 +1,18 @@
+Ryan Bernal
+
+1) Consider the set A to be {a, b, {c}, z} and the set B to be {(a, b, c), (a, d, e), (b, d, e)}
+
+Answers:
+a) 4
+b) True
+c) False
+d) True
+e) False
+f) True
+g) False
+h) True
+i) True
+j) 3
+k) True
+l) False
+
